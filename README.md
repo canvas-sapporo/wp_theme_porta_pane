@@ -1,4 +1,4 @@
-# Porta Pane WordPress Theme
+# WordPress テーマ Porta Pane
 
 WordPressテーマ「Porta Pane」の開発リポジトリです。Tailwind CSSとViteを使用したモダンな開発環境を構築しています。
 
