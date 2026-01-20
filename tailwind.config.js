@@ -17,6 +17,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['"Zen Maru Gothic"', 'system-ui', 'sans-serif'],
+        serif: ['"Playfair Display"', 'serif'],
       },
       colors: {
         'base': '#FBF7F0',
