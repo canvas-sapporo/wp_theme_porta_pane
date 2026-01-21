@@ -3,3 +3,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.texture-paper {
+  background-image: url('../../images/texture-paper.jpg'); /* 相対パス */
+  background-blend-mode: multiply;
+}

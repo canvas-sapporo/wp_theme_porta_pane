@@ -1,4 +1,4 @@
-<section class="px-100 py-48 bg-sub">
+<section id="season" class="px-24 py-12 bg-sub">
   <h2 class="text-section-title">
     季節限定のパン
   </h2>

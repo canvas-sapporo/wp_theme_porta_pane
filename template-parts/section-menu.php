@@ -1,4 +1,4 @@
-<section class="px-100 py-48">
+<section id="menu" class="px-24 py-12">
   <h2 class="text-section-title">
     メニュー
   </h2>

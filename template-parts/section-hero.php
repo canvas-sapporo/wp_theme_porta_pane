@@ -1,5 +1,5 @@
-<section class="relative w-full h-screen flex flex-col justify-between bg-cover bg-center bg-no-repeat" style="background-image: url('<?php echo get_theme_image_url('hero_00.png'); ?>');">
-  <div class="relative z-10 flex-1 flex flex-col justify-between px-100 py-48">
+<section id="hero" class="relative w-full h-screen flex flex-col justify-between bg-cover bg-center bg-no-repeat" style="background-image: url('<?php echo get_theme_image_url('hero_00.png'); ?>');">
+  <div class="relative z-10 flex-1 flex flex-col justify-between px-24 py-12">
 
     <div class="w-fit flex flex-col items-center">
       <h1 class="text-white text-6xl font-serif font-bold leading-tight">

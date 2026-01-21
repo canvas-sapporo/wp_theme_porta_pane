@@ -27,11 +27,6 @@ module.exports = {
         'text': '#332822',
       }
     },
-    spacing: {
-      '35': '35px',
-      '48': '48px',
-      '100': '100px',
-    },
   },
   plugins: [],
 }

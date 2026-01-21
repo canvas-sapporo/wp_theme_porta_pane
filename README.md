@@ -41,6 +41,7 @@ npm run dev
 ```
 
 これにより、Viteの開発サーバーが `http://localhost:5173` で起動します。
+`http://porta-pane.local/` にアクセスするとホームページを閲覧できます。
 
 ### ファイル構成
 
