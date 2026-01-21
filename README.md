@@ -2,7 +2,6 @@
 
 ![Uploading image.png…]()
 
-
 WordPressテーマ「Porta Pane」の開発リポジトリです。Tailwind CSSとViteを使用したモダンな開発環境を構築しています。
 
 ## 技術スタック
