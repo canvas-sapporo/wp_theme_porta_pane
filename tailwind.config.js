@@ -20,7 +20,7 @@ module.exports = {
         serif: ['"Playfair Display"', 'serif'],
       },
       colors: {
-        'base': '#FBF7F0',
+        'bg': '#FBF7F0',
         'main': '#B76E4C',
         'sub': '#E3D2B8',
         'accent': '#556B5A',
