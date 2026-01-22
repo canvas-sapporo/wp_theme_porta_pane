@@ -1,6 +1,6 @@
 # WordPress テーマ Porta Pane
 
-<img width="1440" height="4126" alt="image" src="https://github.com/user-attachments/assets/7a7b6668-e88e-4ba1-8c12-c26a345ebc6f" />
+<img alt="image" src="https://github.com/user-attachments/assets/7a7b6668-e88e-4ba1-8c12-c26a345ebc6f" />
 
 
 WordPressテーマ「Porta Pane」の開発リポジトリです。Tailwind CSSとViteを使用したモダンな開発環境を構築しています。
