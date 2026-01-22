@@ -124,8 +124,8 @@ Tailwind CSSの設定を変更する場合は、`tailwind.config.js` を編集�
 
 ## ライセンス
 
-ISC
+MIT License
 
 ## 作者
 
-Porta Pane
+canvas-sapporo
