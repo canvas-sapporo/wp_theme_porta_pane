@@ -4,7 +4,13 @@
       CONCEPT
     </div>
     <h2 class="absolute flex items-center gap-2 text-text">
-      <img class=" h-9 w-9" src="<?php echo get_theme_image_url('tree-solid-full.svg'); ?>">
+      <span class="w-9 h-9">
+        <?php
+          echo file_get_contents(
+            get_template_directory() . '/images/tree-solid-full.svg'
+          );
+        ?>
+      </span>
       <span class="text-section-title tracking-tighter">
         コンセプト
       </span>
