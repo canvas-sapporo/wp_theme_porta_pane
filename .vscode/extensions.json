@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "devsense.composer-php-vscode",
+    "dbaeumer.vscode-eslint",
+    "johnbillion.vscode-wordpress-hooks",
+    "ecmel.vscode-html-css",
+    "devsense.intelli-php-vscode",
+    "ms-ceintl.vscode-language-pack-ja",
+    "robole.markdown-snippets",
+    "devsense.phptools-vscode",
+    "bmewburn.vscode-intelephense-client",
+    "devsense.profiler-php-vscode",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
