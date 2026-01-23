@@ -53,6 +53,7 @@ Porta_Pane/
 │   │   └── main.css          # Tailwind CSSのエントリーポイント
 │   └── js/                    # JavaScriptファイル（必要に応じて追加）
 ├── dist/                      # ビルド成果物（自動生成）
+├── template-parts/            # セクションのパーツ
 ├── functions.php              # WordPressの関数定義
 ├── header.php                 # ヘッダーテンプレート
 ├── footer.php                 # フッターテンプレート
