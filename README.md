@@ -107,6 +107,7 @@ Tailwind CSSの設定を変更する場合は、`tailwind.config.js` を編集�
 ### 本番環境
 
 ~本番環境では、ビルドされたCSSファイルを使用するように `functions.php` を修正する必要があります。~
+
 `npm run dev` を実行していない場合は、ビルドされたファイル（distフォルダ配下）をしようするように
 `functions.php` を修正しました。
 
