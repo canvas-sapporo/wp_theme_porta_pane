@@ -1,6 +1,6 @@
 <section id="menu" class="flex flex-col items-center justify-center px-24 py-12">
   <div class="relative flex items-end justify-center pb-9">
-    <div class="text-7xl font-bold text-sub tracking-widest select-none">
+    <div class="text-9xl font-bold opacity-50 text-sub tracking-widest select-none">
       MENU
     </div>
     <h2 class="absolute flex items-center gap-2 text-text">

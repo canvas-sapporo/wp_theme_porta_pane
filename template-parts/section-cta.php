@@ -1,6 +1,6 @@
 <section id="cta" class="texture-paper flex flex-col items-center justify-center px-24 py-12 bg-main">
   <div class="relative flex items-end justify-center pb-9 w-full">
-    <div class="text-7xl font-bold text-text tracking-widest select-none">
+    <div class="text-9xl font-bold opacity-50 text-text tracking-widest select-none">
       SNS
     </div>
     <h2 class="absolute flex items-center gap-2 text-bg">
