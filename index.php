@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<main class="bg-bg font-sans w-[1440px]">
+<main class="bg-bg font-sans">
     <?php get_template_part('template-parts/section', 'hero'); ?>
     <?php get_template_part('template-parts/section', 'header'); ?>
     <?php get_template_part('template-parts/section', 'concept'); ?>
